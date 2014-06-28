@@ -1,0 +1,14 @@
+project.ext {
+
+  textInventory="${DIR}editions/inventory.xml"
+  textArchive="${DIR}editions"
+
+    // Lists of index files to use in verification:
+    folioToImage = "${DIR}indices/venA-folioToImage.csv"
+
+    textToImage = "${DIR}indices/venA-textToImage-Iliad.csv"
+    textToFolio = "${DIR}indices/venA-textToFolio-Iliad.csv"
+
+    scholiaInventories = "${DIR}collections/venA-exterior.csv,${DIR}collections/venA-intermarginal.csv,${DIR}collections/venA-interior.csv,${DIR}collections/venA-mainScholia.csv,${DIR}collections/venA-interlinear.csv"
+    
+}
