@@ -16,5 +16,5 @@ Basic infrastructure for working with digital representations of manuscripts:
 Advanced editing work:
 
 
-- to be determined
+- middle of *Iliad* 13 in the Venetus A
 
