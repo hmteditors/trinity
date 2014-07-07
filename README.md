@@ -16,5 +16,5 @@ Basic infrastructure for working with digital representations of manuscripts:
 Advanced editing work:
 
 
-- middle of *Iliad* 13 in the Venetus A
+- middle of *Iliad* 13 in the Venetus A:  folios 169 verso - 174 verso (inclusive)
 
