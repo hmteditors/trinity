@@ -23,6 +23,18 @@ Basic infrastructure for working with digital representations of manuscripts:
 
 The default image for folio 1r would be urn:cite:ecod:gen44.gen44_001
 
+
+## Other Useful Links ##
+
+[Info on the Geneva 44](http://www.homermultitext.org/manuscripts-papyri/genavensis44.html)
+
+[Summary of Archival Material, published version](http://www.homermultitext.org/hmt-digital/overview)
+
+[Summary of Archival Material, beta version](http://beta.hpcc.uh.edu/tomcat/hmt-digital/overview) To be used if published version goes down.
+
+
+---
+
 2. creating a navigational index of *Iliad* lines in the Geneva MS
 
 
