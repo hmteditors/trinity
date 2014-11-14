@@ -10,6 +10,7 @@ Editing HMT project material at Trinity University.
 Basic infrastructure for working with digital representations of manuscripts:
 
 1. creating a model of the page sequences of the Genavensis (Bibliothèque de Genève, ms. gr. 44)
+2. creating an index of *Iliad* lines to folio pages
 
 *URNs for the codex model:*
 
